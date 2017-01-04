@@ -90,6 +90,10 @@ WebTorrent is still pretty new, but it's already being used in cool ways:
 - **[CacheP2P][cachep2p]** - Highly distributed cache platform ([source code][cachep2p-source])
 - **[DropClickPaste][dropclickpaste]** - Drop Dead Simple Content Sharing
 - **[LocalFiles][localfiles]** - Share files by pinning them to geographic locations
+- **[WebTorrent Google Cast (WTGC)][wtgc]** - Cast WebTorrent videos to Google Cast devices ([source code][wtgc-source])
+- **[WebTorrent Player][webtorrent-player]** - A WebTorrent player built by Angular 2 and ngrx ([source code][webtorrent-player-source])
+- **[CodeDump][codedump]** - A WebTorrent based code pastebin ([source code][codedump-source])
+- **[Lunik-Torrent][lunik-torrent]** - WebTorrent downloader and file manager. ([source code][lunik-torrent-source])
 - ***Your app here – [Send a pull request][pr] with your URL!***
 
 #### WebTorrent Product Alternatives
@@ -148,7 +152,14 @@ There's also a list of WebTorrent-powered alternatives to centralized services h
 [cachep2p-source]: https://github.com/guerrerocarlos/CacheP2P
 [dropclickpaste]: http://dropclickpaste.com/
 [localfiles]: https://localfiles.alhur.es/
-
+[wtgc]: https://wtgc.firebaseapp.com
+[wtgc-source]: https://github.com/FluorescentHallucinogen/webtorrent-googlecast
+[webtorrent-player]: http://webtorrent-player.s3-website-us-east-1.amazonaws.com/
+[webtorrent-player-source]: https://github.com/Hongbo-Miao/webtorrent-player
+[codedump]: http://ronsoros.github.io
+[codedump-source]: https://github.com/ronsoros/ronsoros.github.io/blob/master/index.html
+[lunik-torrent]: https://tcloud-lunik.herokuapp.com
+[lunik-torrent-source]: https://github.com/Lunik/Lunik-Torrent
 ## How does WebTorrent work?
 
 The WebTorrent protocol works just like [BitTorrent protocol][bittorrent-protocol],
